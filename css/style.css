@@ -1,0 +1,24 @@
+.titulo {
+	text-align: center;
+	font-family: arial;
+	background-color:pink; 
+}
+.container{
+	background-color: grey;
+}
+.p {
+	font-family:arial;
+	text-align: center;
+	color: white;
+}
+.aaa {
+	text-align: center;
+	background-color: pink;
+}
+
+.pie {
+	background-color: grey;
+	font-family: arial;
+	text-align: center;
+    width: 100%;    
+}
